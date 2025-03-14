@@ -12,10 +12,10 @@ You can submit:
 - General Feedback – Share thoughts on usability, design, or experience improvements.
 
 📥 Submitting an Issue
-- Go to the Issues tab.
-- Click "New Issue".
-- Select the appropriate issue template:
-  - Bug Report 🐞
-  - General Feedback 💡
-- Fill out the template with as much detail as possible.
-- Submit the issue, and the team will review it!
+1. Go to the Issues tab.
+2. Click "New Issue".
+3. Select the appropriate issue template:
+    - Bug Report 🐞
+    - General Feedback 💡
+4. Fill out the template with as much detail as possible.
+5. Submit the issue, and the team will review it!
